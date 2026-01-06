@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there , I'm Nyasha 👋
 
-<!--
-**N-Masket/N-Masket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineering student **building in public**.  
+I turn ideas into small, intentional projects while documenting every step of my learning journey.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build projects that solve real problems  
+- Apply coding best practices  
+- Share progress, lessons, and insights publicly
+
+---
+
+## 📂 Here You’ll Find
+- Coursework & personal projects  
+- Experiments & prototypes  
+- Projects that reflect **growth over perfection**
+- A few “oops, what was I thinking?” moments (hey, we all have them 😅)  
+- And occasionally, a tiny surprise that makes you smile
+---
+
+## 💡 My Philosophy
+I believe in **learning by doing** and **progress over perfection**.  
+Every repo is a milestone — some are complete, some are evolving, all are intentional.
+
+---
+
+
+## 📬 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/nyashamasket/)  
+ 
