@@ -22,7 +22,7 @@ I turn ideas into small, intentional projects while documenting every step of my
 
 ## 💡 My Philosophy
 I believe in **learning by doing** and **progress over perfection**.  
-Every repo is a milestone — some are complete, some are evolving, all are intentional.
+Every repo is a milestone, some are complete, some are evolving, all are intentional.
 
 ---
 
